@@ -3,6 +3,7 @@
 I am a Junior level software developer with a passion for problem solving and providing solutions to improve peoples lives. Currently working as an Alumni helper at Makers Academy providing assistance to the coaching team providing assistance, bug fixes and solution advice. I am looking for a position that will allow me to continue learning while providing meaningful solutions and input.
 
 ### Example work
+
 **Dinnr**  
 A P2P social network for hosting and attending dinner parties. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. Sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
 The live site is at:  
