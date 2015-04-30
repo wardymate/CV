@@ -27,7 +27,7 @@ An informational site with blog posts about a group of Yoga teachers in Brighton
 
 ### Experience
 
-Star Sports Ltd June 2010 - Nov 2014  
+**Star Sports Ltd June 2010 - Nov 2014**   
 Senior Projects Manager and Head of Active Trading  
 Built and managed department from team of 2 with a working capital of £10,000 to a team of 50 full and part time staff both in office and remote with a working capital of over £500,000 and an annual profit of £1.7 million.
 Developed internal spreadsheets and algorithms for odds compilation.
@@ -35,11 +35,11 @@ Developed a golf tournament analysis tool that utilised an API and screen scrapi
 Developed Spreadsheets for improving internal reporting saving 10 man hours per week.
 Developed data storage solution and improved reporting freeing up 1 member of staff.
 
-Star Racing Ltd Feb 2005 - August 2008
+**Star Racing Ltd Feb 2005 - August 2008**  
 Head of Retail Operations
 Co-founded company and Built company up to a chain of 6 Shops and a small telephone call centre.
 
-Neison Active Holidays, My Travel Ltd, Ski Beat Ltd 
+**Neison Active Holidays, My Travel Ltd, Ski Beat Ltd**   
 Various Overseas Roles 2003 - 2005 and 2008 - 2009
 Constantly exceeded sales targets.
 Consistently received outstanding for customer service.
@@ -61,5 +61,5 @@ BSC Chemitry(Hons): Oct 1997 - June 2000
 **Interests**
 
 Accomplished cook: [www.brightonsupperclub.co.uk/](http://www.brightonsupperclub.co.uk/)  
-Explorer of the world - Love travel and visiting new cultures and contries.
+Explorer of the world - Love travel and visiting new cultures and contries.  
 Skiier, Snowboarder and Scuba diver.
