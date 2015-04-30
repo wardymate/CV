@@ -1,11 +1,11 @@
 # Chris Ward
 
-I am a Junior level software developer with a passion for problem solving and providing solutions to improve peoples lives. Currently working as an Alumni helper at Makers Academy assisting the coaching team by providing help, bug fixes and solution advice. I am looking for a position that will allow me to continue learning while providing meaningful solutions and input returning real value to the end user or customer.
+I am a Junior software developer with a passion for problem solving and providing solutions to improve people's lives. Currently working as an Alumni helper at Makers Academy assisting the coaching team by providing help, bug fixes and solution advice. I am looking for a position that will allow me to continue learning while providing meaningful solutions and input returning real value to the end user or customer.
 
 ### Example work
 
 **Dinnr**  
-A P2P social network for hosting and attending dinner parties. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. Sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
+A P2P social network for hosting and attending dinner parties fully tested and built with Rails. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. The abiity for users to sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
 The live site is at:  
 [dinnr.herokuapp.com](dinnr.herokuapp.com)  
 and the source code  
@@ -19,11 +19,11 @@ An informational site with blog posts about a group of Yoga teachers in Brighton
 ### Skills
 
 * Agile values, principles and practice
-* Object­ oriented principles and design
-* Test­ driven development
+* Object oriented principles and design
+* Test driven development
 * Pair programming
-* Problem Solving [http://www.codewars.com/users/wardymate/](http://www.codewars.com/users/wardymate/)
-* For technologies I am familiar with please see my [GitHub](https://github.com/wardymate)
+* Problem solving [http://www.codewars.com/users/wardymate/](http://www.codewars.com/users/wardymate/)
+* For technologies I am familiar with please see other examples of my work on my [GitHub](https://github.com/wardymate)
 
 ### Experience
 
