@@ -7,7 +7,7 @@ I am a Junior software developer with a passion for problem solving and providin
 **Dinnr**  
 A P2P social network for hosting and attending dinner parties fully tested and built with Rails. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. The abiity for users to sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
 The live site is at:  
-[http://dinnr.herokuapp.com](dinnr.herokuapp.com)  
+[http://dinnr.herokuapp.com](http://dinnr.herokuapp.com)  
 and the source code  
 [https://github.com/Dinnr-Makers/Dinnr](https://github.com/Dinnr-Makers/Dinnr)
 
