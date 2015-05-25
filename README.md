@@ -11,6 +11,11 @@ The live site is at:
 and the source code  
 [https://github.com/Dinnr-Makers/Dinnr](https://github.com/Dinnr-Makers/Dinnr)
 
+**Clothing Retailer**
+An example site for a clothing retailer built with Angular and Bootstrap on a Node server. The webite had several user stories for adding products to the shopping basket and the ability to apply discount vouchers depending on scenarios.
+view the source code at
+[https://github.com/wardymate/clothing-retailer](https://github.com/wardymate/clothing-retailer)
+
 **Yogabasebrighton**  
 An informational site with blog posts about a group of Yoga teachers in Brighton. The group required a simple site that they could update with blog posts and link to their instagram account. I offered to build the site with no previous experience of web development and built using a simple CMS giving the group all their required functionality and designed to the clients request.
 
