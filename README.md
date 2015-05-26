@@ -66,5 +66,5 @@ BSC Chemistry(Hons): Oct 1997 - June 2000
 **Interests**
 
 Accomplished cook: [www.brightonsupperclub.co.uk/](http://www.brightonsupperclub.co.uk/)  
-Explorer of the world - Love travel and visiting new cultures and contries.  
+Explorer of the world - Love travel and visiting new cultures and countries.  
 Skiier, Snowboarder and Scuba diver.
