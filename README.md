@@ -1,6 +1,6 @@
 # Chris Ward
 
-I am a Junior software developer with a passion for problem solving and providing solutions to improve people's lives. Currently working as an Alumni helper at Makers Academy assisting the coaching team by providing help, bug fixes and solution advice. I am looking for a position that will allow me to continue learning while providing meaningful solutions and input returning real value to the end user or customer.
+I am a Junior software developer with a passion for problem solving and providing solutions to improve people's lives. Currently working as an Alumni helper at Makers Academy assisting the coaching team by providing help, bug fixes and solution advice. I have spent the past ten years building and growing businesses within and around the uk betting market and am looking for a new challenge. I am looking for a position that will allow me to continue learning while providing meaningful solutions and input returning real value to the end user or customer.
 
 ### Example work
 
