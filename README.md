@@ -5,14 +5,14 @@ I am a Junior software developer with a passion for problem solving and providin
 ### Example work
 
 **Dinnr**  
-A P2P social network for hosting and attending dinner parties fully tested and built with Rails. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. The abiity for users to sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
+A P2P social network for hosting and attending dinner parties fully tested and built with Rails. The idea was for users to meet and cook with/for local strangers. We provided a way for users to view events locally on a map or in a list. The ability for users to sign up with an email address or Facebook. Create and edit events with the ability to add images. Join events and see who else is attending the event and receive booking confirmation.  
 The live site is at:  
 [http://dinnr.herokuapp.com](http://dinnr.herokuapp.com)  
 and the source code  
 [https://github.com/Dinnr-Makers/Dinnr](https://github.com/Dinnr-Makers/Dinnr)
 
 **Clothing Retailer**
-An example site for a clothing retailer built with Angular and Bootstrap on a Node server. The webite had several user stories for adding products to the shopping basket and the ability to apply discount vouchers depending on scenarios.
+An example site for a clothing retailer built with Angular and Bootstrap on a Node server. The website had several user stories for adding products to the shopping basket and the ability to apply discount vouchers depending on scenarios.
 view the source code at
 [https://github.com/wardymate/clothing-retailer](https://github.com/wardymate/clothing-retailer)
 
@@ -67,4 +67,4 @@ BSC Chemistry(Hons): Oct 1997 - June 2000
 
 Accomplished cook: [www.brightonsupperclub.co.uk/](http://www.brightonsupperclub.co.uk/)  
 Explorer of the world - Love travel and visiting new cultures and countries.  
-Skiier, Snowboarder and Scuba diver.
+Skier, Snowboarder and Scuba diver.
